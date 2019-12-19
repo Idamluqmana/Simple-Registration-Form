@@ -1,0 +1,5 @@
+com/mitrais/codingtest/entities/Register.class
+com/mitrais/codingtest/repositories/RegisterRepository.class
+com/mitrais/codingtest/services/RegisterService.class
+com/mitrais/codingtest/CodingTestApplication.class
+com/mitrais/codingtest/controllers/RegisterController.class
